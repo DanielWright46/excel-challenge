@@ -1,3 +1,4 @@
+# Kick Start Analysis
 
 1.	Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 55.5% success rate, 36.4% failure rate, with an 8.1% cancel rate.  The data reflects that most crowdfunding campaigns are not cancelled. 57 out of 986 campaigns were cancelled.  The most successful crowdfunding campaigns are in theater and plays, rendering the largest range of results.
