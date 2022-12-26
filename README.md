@@ -10,3 +10,4 @@ The data set provides created dates and deadline dates. It  would be great to pr
 A possible useful chart, can be a pie chart that displaying magnitude and percentages.  Some additional value that can possibly be provided form the data for user is a see total value calibrated in monitory value amounts for each parent and sub category.
 
 
+![Statistics](https://user-images.githubusercontent.com/67454945/209568089-ae8b07df-6ee4-4020-8f0a-463037f8b19f.png)
